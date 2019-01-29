@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: aliceblue;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 100;
+}
+
+#earth-gif {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    /*margin-left: 10%;
+    margin-right: 10%;*/
+    background-color: #c5cae9;
+    padding: 3%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.bg-img-1 {
+    background-image: url("https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/2/5/3/8/4108352-2-eng-GB/UK-food-manufacturers-could-benefit-from-Brexit_wrbm_large.jpg");
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 3%;
+}
+
+.bg-img-2 {
+    background-image: url("https://www.azonano.com/images/Article_Images/ImageForArticle_4983(1).jpg");
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 3%;
+}
+
+.flag-img {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.flag-title {
+    text-align: center;
+}
+
+.info {
+    background: #536dfe;
+    padding: 1%;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    margin-left: 10%;
+    margin-right: 10%;
+}
